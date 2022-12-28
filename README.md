@@ -3,7 +3,7 @@
 ### ✨ **About Me in 30 Secs** ✨
 - **Software engineer** with **3 years of total experience** in IT 
 - Aspiring to make a **transition into Data Science**
-- **Currently pursuing Post Graduate Program in Data Science and Business Analytics** at Great Learning in colloboration with **University of Texas at Austin**
+- **Currently pursuing Post Graduate Program in Data Science and Business Analytics** at Great Learning in collaboration with **University of Texas at Austin**
 
 
 
