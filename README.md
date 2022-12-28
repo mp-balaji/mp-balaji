@@ -9,8 +9,8 @@
 
 ### 💡 **Core Competencies** 💡
 
-- **Tools**: SQL, Python
-- **Skills**: Python Functions, Data Interpretation, Descriptive Statistics, Probability, Estimation, Hypothesis Testing, ANOVA, EDA, PCA, Clustering, CART, Random Forest, Artificial Neural Networks, Linear Regression, Logistic Regression, Linear discriminant Analysis
+- **Tools**: MSSQL Server, MySQL, Python, Tableau, KNIME, Streamlit
+- **Skills**: Python Functions, Data Interpretation, Descriptive Statistics, Probability, Estimation, Hypothesis Testing, ANOVA, EDA, PCA, Clustering, CART, Random Forest, Artificial Neural Networks, Linear Regression, Logistic Regression, Linear discriminant Analysis, Time Series Forecasting
 
 
 ### **📚 Projects**
