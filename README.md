@@ -20,4 +20,4 @@
 - [LinkedIn](https://www.linkedin.com/in/balaji-mp/)
 
 ### **📊 My Tableau Profile**
-- [public.tableau.com/app/profile/mpbalaji ](https://public.tableau.com/app/profile/mpbalaji) 
+- [Tableau Profile](https://public.tableau.com/app/profile/mpbalaji) 
