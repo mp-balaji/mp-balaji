@@ -18,6 +18,4 @@
 
 ### **🙌🏻 Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/balaji-mp/)
-
-### **📊 My Tableau Profile**
-- [Tableau Profile](https://public.tableau.com/app/profile/mpbalaji) 
+- [Tableau Portfolio](https://public.tableau.com/app/profile/mpbalaji) 
