@@ -9,7 +9,7 @@
 
 ### 💡 **Core Competencies** 💡
 
-- **Tools**: MS-SQL Server, MySQL, Python, Tableau, KNIME, Streamlit
+- **Tools**: MS-SQL Server, MySQL, Python, Tableau, KNIME, Streamlit, Keras
 - **Skills**: Python Functions, Data Interpretation, Descriptive Statistics, Probability, Estimation, Hypothesis Testing, ANOVA, EDA, PCA, Clustering, CART, Random Forest, Artificial Neural Networks, Linear Regression, Logistic Regression, Linear discriminant Analysis, Time Series Forecasting
 
 
