@@ -35,6 +35,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/balaji-mp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji-mp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rogue_patrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rogue_patrol" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/mpbalaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji-mp" height="30" width="40" /></a>
+<a href="https://iconscout.com/icons/tableau" class="text-underline font-size-sm" target="_blank">tableau</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
